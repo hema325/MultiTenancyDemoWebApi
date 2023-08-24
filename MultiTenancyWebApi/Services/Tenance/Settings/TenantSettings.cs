@@ -4,11 +4,11 @@
     {
         public const string SectionName = "Tenant";
 
-        public Defaults Defaults { get; set; } = default!;
+        public Configuration Defaults { get; set; } = default!;
         public List<Tenant> Tenants { get; set; } = default!;
     }
 
-    public class Defaults
+    public class Configuration
     {
         public string DatabaseProvider { get; set; } = null!;
         public string ConnectionString { get; set; } = null!;
