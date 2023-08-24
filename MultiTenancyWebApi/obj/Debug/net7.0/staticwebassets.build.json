@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pNlgy8yLfV+teIglT4b1gMQcfabrV/Tz2WLu1uB4KnM=",
+  "Source": "MultiTenancyWebApi",
+  "BasePath": "_content/MultiTenancyWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
